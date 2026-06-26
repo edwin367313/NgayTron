@@ -1,0 +1,13 @@
+{
+  "name": "ngaytron",
+  "version": "1.0.0",
+  "description": "NgayTron - app ke hoach, nhac viec, bao thuc, checklist, ghi chu (offline)",
+  "private": true,
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  }
+}
